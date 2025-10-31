@@ -16,7 +16,7 @@
 == Version ==
 [ no specified vers to use ]
 
-// Installation \\
+## Installation 
 ### Langkah 1: Install Python
 Pastikan Python 3 sudah ter-install di komputer Anda.
 1.  Kunjungi situs resmi Python: `https://www.python.org/downloads/`
