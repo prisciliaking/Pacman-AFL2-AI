@@ -1,6 +1,6 @@
 # How To Use The Code #
 
-// Used Library \\
+### Used Library 
 == External Library == 
 1. pygame
 == Internal Library ==
@@ -9,7 +9,7 @@
 3. **random**: Digunakan untuk memilih map secara acak dan beberapa logika gerakan hantu.
 4. **time**: Digunakan untuk mengatur durasi mode (Frightened, Scatter, Chase) dan timer.
 
-// IDE Version \\
+### IDE Version 
 == IDE ==
 1. Visual Studio Code (VS Code)
 2. PyCharm
