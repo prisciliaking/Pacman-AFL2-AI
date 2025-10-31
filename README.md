@@ -1,9 +1,9 @@
 # How To Use The Code #
 
 ### Used Library 
-== External Library == 
+#### External Library
 1. pygame
-== Internal Library ==
+#### Internal Library
 1. **heapq**: Digunakan untuk implementasi algoritma pathfinding A* (sebagai priority queue).
 2. **sys**: Digunakan untuk keluar dari aplikasi secara bersih (sys.exit).
 3. **random**: Digunakan untuk memilih map secara acak dan beberapa logika gerakan hantu.
